@@ -42,5 +42,4 @@ WebDriver driver;
 	public void afterClass() {
 		driver.quit();
 	}
-
 }
